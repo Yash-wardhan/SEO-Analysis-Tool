@@ -31,7 +31,7 @@ To install and use the SEO Analysis Tool, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd seo-analysis-tool
+    cd project-seo
     ```
 
 3. Install the required dependencies using pip:
